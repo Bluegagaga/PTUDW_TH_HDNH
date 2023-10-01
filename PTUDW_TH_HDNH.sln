@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTUDW_TH_HDNH", "PTUDW_TH_HDNH\PTUDW_TH_HDNH.csproj", "{3B56B123-334B-426E-AD6D-C1856770FEC0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTUDW2", "PTUDW2\PTUDW2.csproj", "{C1875917-1EA7-4435-A0FB-2268FFE57BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClass", "MyClasss\MyClass.csproj", "{28693157-F188-47FC-A507-DEF65FA72C41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3B56B123-334B-426E-AD6D-C1856770FEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B56B123-334B-426E-AD6D-C1856770FEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B56B123-334B-426E-AD6D-C1856770FEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B56B123-334B-426E-AD6D-C1856770FEC0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C1875917-1EA7-4435-A0FB-2268FFE57BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C1875917-1EA7-4435-A0FB-2268FFE57BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1875917-1EA7-4435-A0FB-2268FFE57BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1875917-1EA7-4435-A0FB-2268FFE57BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28693157-F188-47FC-A507-DEF65FA72C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28693157-F188-47FC-A507-DEF65FA72C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28693157-F188-47FC-A507-DEF65FA72C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28693157-F188-47FC-A507-DEF65FA72C41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

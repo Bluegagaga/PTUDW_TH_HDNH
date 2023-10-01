@@ -77,3 +77,10 @@ E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.csproj.CoreCompil
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.csproj.CopyComplete
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.pdb
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.dll
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.SqlServer.dll
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.xml
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.SqlServer.xml
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\MyClasss.dll
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\MyClasss.pdb
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\MyClasss.dll.config

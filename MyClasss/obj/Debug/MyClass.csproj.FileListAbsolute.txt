@@ -1,0 +1,12 @@
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\obj\Debug\MyClass.csproj.AssemblyReference.cache
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\bin\Debug\MyClasss.dll.config
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\bin\Debug\MyClasss.dll
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\bin\Debug\MyClasss.pdb
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\bin\Debug\EntityFramework.dll
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\bin\Debug\EntityFramework.xml
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\obj\Debug\MyClass.csproj.CopyComplete
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\obj\Debug\MyClasss.dll
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\MyClasss\obj\Debug\MyClasss.pdb
