@@ -14,18 +14,29 @@ namespace MyClass.Model
         [Key]
         public int Id { get; set; }
         [Required]
+        [Display(Name="Ten loai SP")]
         public string Name { get; set; }
+        [Display(Name = "Ten rut gon")]
         public string Slug { get; set; }
+        [Display(Name = "Cap cha")]
         public int ParentID { get; set; }
+        [Display(Name = "Sap xep")]
         public int Order { get; set; }
         [Required]
-        public string MetaDesc { get; set; }
+        [Display(Name = "Mo ta")]
+        public int MetaDesc { get; set; }
         [Required]
+        [Display(Name = "Tu khoa")]
         public int MetaKey { get; set; }
-        public int CreateBy { get; set; }
+        [Display(Name = "Tao boi")]
+        public string CreateBy { get; set; }
+        [Display(Name = "Ngay tao")]
         public DateTime CreateAt { get; set; }
+        [Display(Name = "Cap nhat boi")]
         public int UpdateBy { get; set; }
+        [Display(Name = "Ngay cap nhat")]
         public DateTime UpdateAt { get; set; }
+        [Display(Name = "Trang thai")]
         public int Status { get; set; }
     }
 
