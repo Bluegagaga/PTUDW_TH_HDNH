@@ -1,0 +1,2 @@
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW\obj\Debug\PTUDW.csproj.AssemblyReference.cache
+E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW\obj\Debug\PTUDW.csproj.CoreCompileInputs.cache
