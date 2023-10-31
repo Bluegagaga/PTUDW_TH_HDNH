@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PTUDW2")]
+[assembly: AssemblyTitle("_63CNTT5N1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PTUDW2")]
+[assembly: AssemblyProduct("_63CNTT5N1")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5a6a2f35-b992-4309-9557-b8899c21e8ea")]
+[assembly: Guid("0d9e9448-d9a3-4e7e-b8ed-e631fd334c06")]
 
 // Version information for an assembly consists of the following four values:
 //

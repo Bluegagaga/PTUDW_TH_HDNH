@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace PTUDW2.Areas.Admin
+namespace _63CNTT5N1.Areas.Admin
 {
     public class AdminAreaRegistration : AreaRegistration 
     {
@@ -17,7 +17,7 @@ namespace PTUDW2.Areas.Admin
             context.MapRoute(
                 "Admin_default",
                 "Admin/{controller}/{action}/{id}",
-                new {Controller="Dashboard", action = "Index", id = UrlParameter.Optional }
+                new { controller = "Dashboard", action = "Index", id = UrlParameter.Optional }
             );
         }
     }

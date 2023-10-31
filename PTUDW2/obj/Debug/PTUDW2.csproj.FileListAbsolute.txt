@@ -30,7 +30,6 @@ E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.IO.Compression.d
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.IO.Compression.ZipFile.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.IO.FileSystem.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.Net.Http.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.Net.Sockets.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.Reflection.Metadata.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
@@ -50,18 +49,8 @@ E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\vbc.exe.config
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\vbc.rsp
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\VBCSCompiler.exe
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\roslyn\VBCSCompiler.exe.config
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\Antlr3.Runtime.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\Microsoft.Web.Infrastructure.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\Newtonsoft.Json.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.Helpers.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.Mvc.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.Optimization.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.Razor.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.WebPages.Deployment.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.WebPages.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.WebPages.Razor.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\WebGrease.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.Helpers.xml
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.Mvc.xml
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\System.Web.Optimization.xml
@@ -77,8 +66,6 @@ E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.csproj.CoreCompil
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.csproj.CopyComplete
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\obj\Debug\PTUDW2.pdb
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.dll
-E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.SqlServer.dll
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.xml
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\EntityFramework.SqlServer.xml
 E:\ProjectVS\PTUDWTHHDNH\PTUDW_TH_HDNH\PTUDW2\bin\MyClasss.dll

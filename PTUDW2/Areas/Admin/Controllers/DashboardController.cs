@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace PTUDW2.Areas.Admin
+namespace _63CNTT5N1.Areas.Admin.Controllers
 {
     public class DashboardController : Controller
     {

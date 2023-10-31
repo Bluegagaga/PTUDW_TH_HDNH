@@ -44,7 +44,7 @@ namespace MyClasss.DAO
         }
         public Categories getRow(int? id)
         {
-            if (id==null)
+            if (id == null)
             {
                 return null;
             }
@@ -65,7 +65,7 @@ namespace MyClasss.DAO
         {
             db.Entry(row).State = EntityState.Modified;
             return db.SaveChanges();
-            
+
         }
 
         //xoa mau tin

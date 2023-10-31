@@ -1,8 +1,15 @@
-﻿﻿@model IEnumerable<MyClass.Model.Categories>
+﻿@model IEnumerable<MyClass.Model.Categories>
 
 @{
     ViewBag.Title = "Index";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@section header{
+<link rel="stylesheet" href="~/Public/css/jquery.dataTables.min.css.css" />
+}
+@section footer{
+    <script src="~/Public/css/jquery.dataTables.min.js.js"></script>
+    <script>let table = new DataTable('#myTable');</script>
 }
 
 <div class="wrapper">
@@ -28,7 +35,7 @@
                 </div>
                 <div class="card-body">
                 @Html.Partial("Message")
-                    <table class="table table-bordered table-striped">
+                    <table class="table table-bordered table table-striped">
                         <tr>
                             <th>ID</th>
                             <th>@Html.DisplayNameFor(model => model.Name)</th>
@@ -37,7 +44,7 @@
                             <th>@Html.DisplayNameFor(model => model.Order)</th>
                             <th>Chức năng</th>
                         </tr>
-
+                        <tbody>
                         @foreach (var item in Model)
                         {
                             <tr>
@@ -60,6 +67,7 @@
                                     <a href="@Url.Action("Delete","Category", new { id = item.Id })" class="btn-sm btn-danger"><i class="fa fa-trash"></i></a>
                                 </td>
                             </tr>
+                            </tbody>
                         }
 
                     </table>

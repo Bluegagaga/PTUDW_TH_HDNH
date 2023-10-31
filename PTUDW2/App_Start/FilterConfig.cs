@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace PTUDW2
+namespace _63CNTT5N1
 {
     public class FilterConfig
     {

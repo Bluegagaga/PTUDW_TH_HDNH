@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO\CategoryDAO.cs" />
+    <Compile Include="DAO\SupplierDAO.cs" />
     <Compile Include="Model\Cagetories.cs" />
     <Compile Include="Model\Contact.cs" />
     <Compile Include="Model\Links.cs" />
@@ -77,5 +78,6 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
